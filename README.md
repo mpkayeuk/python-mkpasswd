@@ -1,1 +1,1 @@
-# python-mkpasswd
+# python-mkpasswd - A python script to output MD5 hashes for use in Ubuntu preseed
